@@ -9,6 +9,10 @@
 jQuery.zip2addr([https://github.com/kotarok/jQuery.zip2addr](https://github.com/kotarok/jQuery.zip2addr))のボタンクリックに特化したバージョンです。  
 素敵なツールを公開していただいているkotarok様に感謝いたします。
 
+##デモ
+
+[http://etc.dounokouno.com/jQuery.Zip2AddrByClick/sample.html](http://etc.dounokouno.com/jQuery.Zip2AddrByClick/sample.html)
+
 ##ライセンス
 
 Dual licensed under the MIT or GPL Version 2 licenses.
